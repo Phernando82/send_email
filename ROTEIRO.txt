@@ -1,0 +1,14 @@
+Nome do projeto: Enviador de email
+
+Objetivo do projeto: 
+_Gravar uma lista de contatos de email,
+_configurar assunto e corpo de email,
+_enviar emails automaticamente ajustando o nome do destinatário,
+_agendar envio de emails.
+
+Tarefas:
+_criar telas - campos a serem preenchidos, botões;
+_salvar em banco ou em arquivo .txt;
+_criar função de envio;
+
+Tecnologias utilizadas
